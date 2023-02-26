@@ -1,63 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blog</title>
+    <title>Tags on Puppet</title>
     <link>https://inavy46.github.io/tags/</link>
-    <description>Recent content in Tags on Blog</description>
+    <description>Recent content in Tags on Puppet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://inavy46.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Aug 2022 15:38:30 +0800</lastBuildDate><atom:link href="https://inavy46.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Game</title>
-      <link>https://inavy46.github.io/tags/game/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>documentation</title>
+      <link>https://inavy46.github.io/tags/documentation/</link>
+      <pubDate>Tue, 09 Aug 2022 15:38:30 +0800</pubDate>
       
-      <guid>https://inavy46.github.io/tags/game/</guid>
+      <guid>https://inavy46.github.io/tags/documentation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>HTML</title>
+      <title>guide</title>
+      <link>https://inavy46.github.io/tags/guide/</link>
+      <pubDate>Tue, 09 Aug 2022 15:38:30 +0800</pubDate>
+      
+      <guid>https://inavy46.github.io/tags/guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://inavy46.github.io/tags/css/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://inavy46.github.io/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
       <link>https://inavy46.github.io/tags/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://inavy46.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>New</title>
-      <link>https://inavy46.github.io/tags/new/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>markdown</title>
+      <link>https://inavy46.github.io/tags/markdown/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://inavy46.github.io/tags/new/</guid>
+      <guid>https://inavy46.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Photos</title>
-      <link>https://inavy46.github.io/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>privacy</title>
+      <link>https://inavy46.github.io/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://inavy46.github.io/tags/photos/</guid>
+      <guid>https://inavy46.github.io/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Python</title>
-      <link>https://inavy46.github.io/tags/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>shortcodes</title>
+      <link>https://inavy46.github.io/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://inavy46.github.io/tags/python/</guid>
+      <guid>https://inavy46.github.io/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>React</title>
-      <link>https://inavy46.github.io/tags/react/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>text</title>
+      <link>https://inavy46.github.io/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://inavy46.github.io/tags/react/</guid>
+      <guid>https://inavy46.github.io/tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://inavy46.github.io/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://inavy46.github.io/tags/emoji/</guid>
       <description></description>
     </item>
     
